@@ -1,0 +1,5 @@
+14:38:36.240 Navigated to https://rekordbox.com/assets/diagram/en/CDJ_XDJ_Control_Mapping.pdf
+14:38:36.962 CDJ_XDJ_Control_Mapping.pdf:1 Error in event handler for (unknown): TypeError: Cannot read property 'appendChild' of null
+    at chrome-extension://hejbpbhdhhchmmcgmccpnngfedalkmkm/src/injected/content-script.js:150:19
+14:41:09.431 CSSUnparsedValue CDJ_XDJ_Control_Mapping.pdf:1 MIDIOutput
+14:41:09.446 VM797:1 Uncaught SyntaxError: Unexpected identifier
